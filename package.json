@@ -30,6 +30,9 @@
     "mocha": "^1.21.4"
   },
   "dependencies": {
-    "restify": "^2.8.2"
+    "memory-session-store": "^0.1.0",
+    "object_utils": "^0.1.0",
+    "restify": "^2.8.2",
+    "secure-rnd": "^1.0.0"
   }
 }
