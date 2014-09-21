@@ -4,7 +4,7 @@ var gulp = require('gulp'),
 	jshint = require('gulp-jshint');
 
 var paths = {
-	'src': ['./index.js', './lib/**/*.js','./routes/**/*.js', './models/**/*.js'],
+	'src': ['./index.js', './lib/**/*.js'],
 	'tests': ['./test/**/*.js']
 };
 

@@ -1,6 +1,6 @@
 {
   "name": "restify-memory-session",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "A simple session for restify, stored just in memory.",
   "main": "index.js",
   "scripts": {
@@ -30,7 +30,6 @@
     "mocha": "^1.21.4"
   },
   "dependencies": {
-    "memory-session-store": "^0.1.0",
     "object_utils": "^0.1.0",
     "restify": "^2.8.2",
     "secure-rnd": "^1.0.0"

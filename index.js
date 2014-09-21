@@ -1,5 +1,1 @@
-var memorySessionStore = require('memory-session-store')();
-
-memorySessionStore.create();
-
-
+module.exports = require('./lib/session.js');
