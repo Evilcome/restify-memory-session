@@ -1,6 +1,6 @@
 {
   "name": "restify-memory-session",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A simple session for restify, stored just in memory.",
   "main": "index.js",
   "scripts": {
